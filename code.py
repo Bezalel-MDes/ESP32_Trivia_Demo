@@ -1,4 +1,4 @@
-# A quck example of using the ESP32-S2 (Adafruit ESP32-S2 Reverse TFT Feather) as a web client 
+# A quick example of using the ESP32-S2 (Adafruit ESP32-S2 Reverse TFT Feather) as a web client 
 # to fetch questions from the Open Trivia Database and display them on the TFT display. 
 # The user can press the buttons to answer the question.
 
@@ -6,7 +6,7 @@
 # SPDX-FileCopyrightText: 2020 Brent Rubell for Adafruit Industries
 # SPDX-License-Identifier: MIT
 
-#  To setup pythoin on the Adafruit ESP32-S2 Reverse TFT Feather, follow the instructions here:
+#  To setup Python on the Adafruit ESP32-S2 Reverse TFT Feather, follow the instructions here:
 # https://learn.adafruit.com/esp32-s2-reverse-tft-feather/circuitpython
 
 import os
